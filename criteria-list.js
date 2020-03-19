@@ -134,7 +134,7 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Мини-игры"
+    title: "Мини-игры +30"
   },
   {
     type: 'subtask',
@@ -153,7 +153,7 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Саванна"
+    title: "Саванна +30"
   },
   {
     type: 'subtask',
@@ -172,7 +172,7 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Аудиовызов"
+    title: "Аудиовызов +30"
   },
   {
     type: 'subtask',
@@ -191,7 +191,7 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Спринт"
+    title: "Спринт +30"
   },
   {
     type: 'subtask',
@@ -210,7 +210,26 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Промо-страница приложения"
+    title: "Своя игра +30"
+  },
+  {
+    type: 'subtask',
+    text: "оригинальная идея, игра интересная, полезная, увлекательная, не является клоном предыдущих игр",
+    max: 10,
+  },
+  {
+    type: 'subtask',
+    text: "сложный механизм игры, высокое качество его реализации",
+    max: 10
+  },
+  {
+    type: 'subtask',
+    text: "интересный оригинальный дизайн, использованы новые подходы, реализованы новые возможности, которых не было в предыдущих играх",
+    max: 10
+  },
+  {
+    type: "title",
+    title: "Промо-страница приложения +40"
   },
   {
     type: 'subtask',
