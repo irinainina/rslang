@@ -22,7 +22,7 @@ export const criteria = [
   },
   {
     type: "title",
-    title: "Изучение новых слов +110"
+    title: "Изучение новых слов +120"
   },
   {
     type: 'subtask',
