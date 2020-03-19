@@ -152,8 +152,8 @@ export const criteria = [
     max: 10
   },
   {
-    type: "Саванна",
-    title: "Вёрстка, дизайн, UI +30"
+    type: "title",
+    title: "Саванна"
   },
   {
     type: 'subtask',
