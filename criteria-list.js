@@ -125,7 +125,7 @@ export const criteria = [
   },
   {
     type: 'subtask',
-    text: "English-puzzle,
+    text: "English-puzzle",
     max: 120
   },
   {
