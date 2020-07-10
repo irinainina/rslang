@@ -325,6 +325,22 @@ main {
     margin: 20px 0;
 }
 
+.title:nth-child(1) h3 {
+    color: #dc143c;
+    font-size: 22px;
+    border-bottom: 0px solid;
+}
+
+.title:nth-child(2) h3 {
+    font-size: 20px;
+    border-bottom: 0px solid;
+}
+
+.title:nth-child(3) h3 {
+    font-size: 20px;
+    border-bottom: 1px solid;
+}
+
 .information:after {
     display: block;
     background: url(images/icon.png) no-repeat;
