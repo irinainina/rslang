@@ -331,14 +331,15 @@ main {
     border-bottom: 0px solid;
 }
 
-.title:nth-child(2) h3 {
-    font-size: 20px;
+.title:nth-child(2) h3,
+.title:nth-child(3) h3 {
+    font-size: 18px;
+    font-weight: 400;
     border-bottom: 0px solid;
 }
 
 .title:nth-child(3) h3 {
-    font-size: 20px;
-    border-bottom: 1px solid;
+    margin-bottom: 40px;
 }
 
 .information:after {
